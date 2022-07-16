@@ -1,0 +1,12 @@
+sort1 uses: Bubble sort
+
+How do you know?: Looking at the length of time this sort takes for files that needed to be sorted file shows that this is the slowest sort. Unless the file was already sorted. On the upper bound, I expect this take O(n^2) number of steps required to complete. This is greatest amount of steps required to complete a sort, therefore, this held true if the file was not sorted. On the lower bound, I expect this to take Ohm(n) to complete in the instance that everything was already sorted. This held true in files that were already sorted.
+
+sort2 uses: Merge sort
+
+How do you know?: The length of time this sort takes for each sort shows that this is the most effiecent sort. On the upper bound, I expect this to take O(nlogn), which is more efficient than the bubble sort. On the lower bound, I expect this to take Ohm(nlogn), which is more efficient than the bubble sort on the upper bound, but not on the lower bound where bubble sort it Ohm(n).
+
+sort3 uses: Selection sort
+
+How do you know?: This took the longest amount of time to sort through a sorted file.
+Selection sort has an upper bound of O(n^2) and a lower bound of Ohm(n^2), therefore, the computer went through each value to check each value, which takes longer than the other sorts.
