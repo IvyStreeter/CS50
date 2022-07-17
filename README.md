@@ -1,1 +1,1 @@
-Problem sets and lab work codes from taking the CS50x course are shared here. They are subdivided into different folders for the weekly work.
+Problem sets and lab work codes from CS50x course (https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) are shared here. They are subdivided into different folders for the weekly work.
